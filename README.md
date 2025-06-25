@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=fcced5&height=150&section=header&text=안녕하시긔&fontSize=100" />
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gkwydl&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/gkwydl"

@@ -1,25 +1,59 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffd1dc&height=150&section=header&text=Hajeong's%20GitHub&fontSize=42" />
-<div align=center>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gkwydl&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/gkwydl"
-  width="600"
-  height="300"
-/>
-</a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffe4ec&height=140&section=header&text=Hajeong's%20GitHub&fontSize=40&fontColor=ffffff" />
 
 <br>
 
-<h3>배움을 전제로 의견을 수용하는 개발자 임하정입니다!</h3>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=frontend%20developer%20hajeong&fontSize=18&fontColor=ff8fab" />
 
- Languages / Library / Tools 
-  
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-![js](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![js](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
+<br><br>
 
-<a href='https://react.dev/'>![js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)</a>
-<a href='https://styled-components.com/'>![js](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)</a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gkwydl&utm_content=gkwydl">
+  <img src="https://render.gitanimals.org/farms/gkwydl" width="360" />
+</a>
 
-![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+<br><br>
+
+---
+
+### About Me
+
+<div align="center">
+<h3>
+배움을 통해 성장하고,<br>
+피드백을 빠르게 반영하는 프론트엔드 개발자 임하정입니다.
+</h3>
+</div>
+
+<br>
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-ffd6e0?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-cce7ff?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-fff3b0?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-e0f0ff?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-ffb3c6?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-2b2b2b?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-ffc6ff?style=for-the-badge&logo=figma&logoColor=black" />
+
+</div>
+
+<br>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&layout=compact&hide=powershell,ejs,makefile,shell&title_color=ff8fab&text_color=333333" />
+</div>
+
 </div>

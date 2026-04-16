@@ -10,9 +10,9 @@
 <br>
 
 <div align=center>
-<h3>임하정입니다!</h3>
+<h3>배움을 전제로 의견을 수용하는 개발자 임하정입니다!</h3>
 
-📚 Languages / Library / Tools 📚
+ Languages / Library / Tools 
   
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -30,6 +30,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![Intellij](https://img.shields.io/badge/Intellij-000000.svg?&style=for-the-badge&logo=IntellijlogoColor=white)

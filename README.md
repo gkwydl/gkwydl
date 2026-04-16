@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd1dc&height=150&section=header&text=Hajeong's%20GitHub&fontSize=42" />
+<div align=center>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gkwydl&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/gkwydl"
@@ -9,7 +10,6 @@
 
 <br>
 
-<div align=center>
 <h3>배움을 전제로 의견을 수용하는 개발자 임하정입니다!</h3>
 
  Languages / Library / Tools 

@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Morgan's%20GitHub&fontSize=42" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=pink&height=150&section=header&text=Hajeong's%20GitHub&fontSize=42" />
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gkwydl&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/gkwydl"

@@ -6,8 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&text=frontend%20developer%20hajeong&fontSize=18&fontColor=ff8fab" />
 
-<br><br>
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gkwydl&utm_content=gkwydl">
   <img src="https://render.gitanimals.org/farms/gkwydl" width="360" />
 </a>
@@ -38,11 +36,13 @@
 <img src="https://img.shields.io/badge/JavaScript-fff3b0?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-e0f0ff?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-<br><br>
+
+### Development Tools
 
 <img src="https://img.shields.io/badge/Git-ffb3c6?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-2b2b2b?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-ffc6ff?style=for-the-badge&logo=figma&logoColor=black" />
+<img src="https://img.shields.io/badge/VSCode-5C9EFF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 </div>
 

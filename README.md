@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=frontend%20developer%20hajeong&fontSize=18&fontColor=ff8fab" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=front-end%20developer%20hajeong&fontSize=18&fontColor=ff8fab" />
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gkwydl&utm_content=gkwydl">
   <img src="https://render.gitanimals.org/farms/gkwydl" width="360" />
